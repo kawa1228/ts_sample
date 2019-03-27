@@ -1,6 +1,7 @@
 # ts_sample
 
 > My groovy Nuxt.js project
+https://tocca-project-9f4fc.firebaseio.com
 
 ## Build Setup
 
@@ -20,4 +21,3 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
-# tocca_ts_app
