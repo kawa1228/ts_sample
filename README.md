@@ -37,3 +37,19 @@ export FIREBASE_API_KEY=<API KEY>
 ```
 $ direnv allow
 ```
+
+# firebase
+
+```
+$ firebase login
+$ firebase init
+```
+
+| to use as your public directory ? **dist**
+
+# deploy
+
+```
+$ npm npm run-script build
+$ firebase deploy
+```
